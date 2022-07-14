@@ -1,0 +1,173 @@
+body{
+    background: #161618;
+}
+
+/*StartPage*/
+.top_bar{
+    z-index: 1;
+    position: absolute;
+    width: 1366px;
+    height: 80px;
+    left: 0;
+    top: 0;
+    background: #AF2F2F;
+    box-shadow: 0 10px 4px #262F48;
+}
+
+/*Buttons*/
+.top_btn{
+    font-family: 'Playfair Display',serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+}
+#logo{
+    position: absolute;
+    width: 70px;
+    height: 66px;
+    left: 30px;
+    top: 7px;
+
+}
+#forum{
+    position: absolute;
+    width: 101px;
+    height: 40px;
+    left: 150px;
+    top: 20px;
+}
+#group{
+    position: absolute;
+    width: 153px;
+    height: 40px;
+    left: 301px;
+    top: 20px;
+}
+#rules{
+    position: absolute;
+    width: 128px;
+    height: 40px;
+    left: 504px;
+    top: 20px;
+}
+#news{
+    position: absolute;
+    width: 127px;
+    height: 40px;
+    left: 682px;
+    top: 20px;
+}
+#autr{
+    position: absolute;
+    width: 67px;
+    height: 40px;
+    left: 1259px;
+    top: 20px;
+    color: #FFE600;
+}
+/*EndButtons*/
+#main_logo_text{
+    position: absolute;
+    width: 212px;
+    height: 120px;
+    left: 110px;
+    top: 340px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#main_logo{
+    z-index: -1;
+    width: 1340px;
+    height: 600px;
+    left: calc(50% - 1342px/2);
+    top: 80px;
+    mix-blend-mode: lighten;
+    opacity: 0.7;
+    border-radius: 0 0 20px 20px;
+}
+
+.main_bar{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    color: #FFFFFF;
+    position: absolute;
+    background: #AF2F2F;
+    border-radius: 20px;
+}
+
+#online{
+    width: 350px;
+    height: 500px;
+    left: 20px;
+    top: 780px;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+#online_text{
+    position: absolute;
+    width: 116px;
+    height: 40px;
+    left: 137px;
+    top: 720px;
+}
+#popularity{
+    width: 350px;
+    height: 500px;
+    left: 410px;
+    top: 780px;
+}
+#popularity_text{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 510px;
+    top: 720px;
+}
+#events{
+    width: 546px;
+    height: 500px;
+    left: 800px;
+    top: 780px;
+}
+#events_text{
+    position: absolute;
+    width: 135px;
+    height: 40px;
+    left: 1006px;
+    top: 720px;
+}
+
+h1{
+    position: absolute;
+    width: 539px;
+    height: 67px;
+    left: 413px;
+    top: 1383px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+
+/*Autorize*/
