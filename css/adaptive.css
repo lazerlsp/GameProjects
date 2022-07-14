@@ -1,0 +1,507 @@
+@media (max-width: 768px){
+    .top_bar{
+        position: absolute;
+        z-index: 1;
+        width: 768px;
+        height: 50px;
+        left: 0;
+        top: 0;
+        background: #AF2F2F;
+        box-shadow: 0 10px 4px #262F48;
+    }
+    .top_btn{
+        font-family: 'Playfair Display',serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        color: #FFFFFF;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+        text-decoration: none;
+    }
+
+    /*Buttons*/
+    #logo{
+        position: absolute;
+        width: 37.5px;
+        height: 30px;
+        left: 10px;
+        top: 10px;
+    }
+    #forum{
+        position: absolute;
+        width: 61px;
+        height: 24px;
+        left: 78px;
+        top: 13px;
+    }
+    #group{
+        position: absolute;
+        width: 92px;
+        height: 24px;
+        left: 169px;
+        top: 13px;
+    }
+    #rules{
+        position: absolute;
+        width: 77px;
+        height: 24px;
+        left: 291px;
+        top: 13px;
+    }
+    #news{
+        position: absolute;
+        width: 76px;
+        height: 24px;
+        left: 398px;
+        top: 13px;
+    }
+    #autr{
+        position: absolute;
+        width: 40px;
+        height: 24px;
+        left: 698px;
+        top: 13px;
+        color: #FFE600;
+    }
+    /*End Buttons*/
+
+    #main_logo_text{
+        position: absolute;
+        width: 170px;
+        height: 96px;
+        left: 30px;
+        top: 173px;
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    #main_logo{
+        z-index: -1;
+        width: 768px;
+        height: 343.37px;
+        left: 0;
+        top: 50px;
+        mix-blend-mode: lighten;
+        opacity: 0.7;
+    }
+
+    .main_bar{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+        color: #FFFFFF;
+        position: absolute;
+        background: #AF2F2F;
+        border-radius: 20px;
+    }
+
+    #online{
+        width: 348px;
+        height: 446.43px;
+        left: 20px;
+        top: 881.57px;
+    }
+    h2{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+        color: #FFFFFF;
+    }
+    #online_text{
+        position: absolute;
+        width: 116px;
+        height: 40px;
+        left: 136px;
+        top: 828px;
+    }
+    #popularity{
+        width: 348px;
+        height: 446.43px;
+        left: 398px;
+        top: 881.57px;
+    }
+    #popularity_text{
+        position: absolute;
+        width: 150px;
+        height: 40px;
+        left: 497px;
+        top: 828px;
+    }
+    #events{
+        width: 600px;
+        height: 350px;
+        left: 84px;
+        top: 453px;
+    }
+    #events_text{
+        position: absolute;
+        width: 135px;
+        height: 40px;
+        left: 317px;
+        top: 393px;
+    }
+
+    h1{
+        position: absolute;
+        width: 409px;
+        height: 51px;
+        left: 180px;
+        top: 1338px;
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        color: #FFFFFF;
+    }
+
+    /*Autorize*/
+}
+@media (max-width: 425px){
+    .top_bar{
+        z-index: 1;
+        position: absolute;
+        width: 425px;
+        height: 50px;
+        left: 0;
+        top: 0;
+        background: #AF2F2F;
+        box-shadow: 0 10px 4px #262F48;
+    }
+    .top_btn{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 16px;
+        text-align: center;
+        color: #FFFFFF;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+        text-decoration: none;
+    }
+
+    /*Buttons*/
+    #logo{
+        position: absolute;
+        width: 22px;
+        height: 22px;
+        left: 10px;
+        top: 14px;
+    }
+    #forum{
+        position: absolute;
+        width: 41px;
+        height: 16px;
+        left: 42px;
+        top: 17px;
+    }
+    #group{
+        position: absolute;
+        width: 62px;
+        height: 16px;
+        left: 93px;
+        top: 17px;
+    }
+    #rules{
+        position: absolute;
+        width: 52px;
+        height: 16px;
+        left: 165px;
+        top: 17px;
+    }
+    #news{
+        position: absolute;
+        width: 51px;
+        height: 16px;
+        left: 227px;
+        top: 17px;
+    }
+    #autr{
+        position: absolute;
+        width: 27px;
+        height: 16px;
+        left: 388px;
+        top: 17px;
+        color: #FFE600;
+    }
+    /*End Buttons*/
+
+    #main_logo_text{
+        position: absolute;
+        width: 85px;
+        height: 48px;
+        left: 20px;
+        top: 121px;
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 16px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    #main_logo{
+        z-index: -1;
+        width: 425px;
+        height: 190.01px;
+        left: 0;
+        top: 50px;
+        mix-blend-mode: lighten;
+        opacity: 0.7;
+    }
+
+    .main_bar{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        color: #FFFFFF;
+        position: absolute;
+        background: #AF2F2F;
+        border-radius: 20px;
+    }
+
+    #online{
+        width: 389px;
+        height: 267.86px;
+        left: 18px;
+        top: 652.14px;
+    }
+    h2{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        color: #FFFFFF;
+    }
+    #online_text{
+        position: absolute;
+        width: 93px;
+        height: 32px;
+        left: 166px;
+        top: 600px;
+    }
+    #popularity{
+        width: 389px;
+        height: 267.86px;
+        left: 18px;
+        top: 992.57px;
+    }
+    #popularity_text{
+        position: absolute;
+        width: 120px;
+        height: 32px;
+        left: 153px;
+        top: 940px;
+    }
+    #events{
+        width: 389px;
+        height: 250px;
+        left: 18px;
+        top: 330px;
+    }
+    #events_text{
+        position: absolute;
+        width: 108px;
+        height: 32px;
+        left: 159px;
+        top: 278px;
+    }
+
+    h1{
+        position: absolute;
+        width: 259px;
+        height: 32px;
+        left: 83px;
+        top: 1348px;
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        color: #FFFFFF;
+    }
+
+    /*Autorize*/
+}
+@media (max-width: 320px){
+    .top_bar{
+        z-index: 1;
+        position: absolute;
+        width: 320px;
+        height: 35px;
+        left: 0;
+        top: 0;
+        background: #AF2F2F;
+        box-shadow: 0 10px 4px #262F48;
+    }
+    .top_btn{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 8px;
+        line-height: 11px;
+        text-align: center;
+        color: #FFFFFF;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+        text-decoration: none;
+    }
+
+    /*Buttons*/
+    #logo{
+        position: absolute;
+        width: 20px;
+        height: 18.18px;
+        left: 10px;
+        top: 8px;
+    }
+    #forum{
+        position: absolute;
+        width: 27px;
+        height: 11px;
+        left: 40px;
+        top: 12px;
+    }
+    #group{
+        position: absolute;
+        width: 41px;
+        height: 11px;
+        left: 77px;
+        top: 12px;
+    }
+    #rules{
+        position: absolute;
+        width: 35px;
+        height: 11px;
+        left: 128px;
+        top: 12px;
+    }
+    #news{
+        position: absolute;
+        width: 34px;
+        height: 11px;
+        left: 173px;
+        top: 12px;
+    }
+    #autr{
+        position: absolute;
+        width: 18px;
+        height: 11px;
+        left: 292px;
+        top: 12px;
+        color: #FFE600;
+    }
+    /*End Buttons*/
+
+    #main_logo_text{
+        position: absolute;
+        width: 71px;
+        height: 39px;
+        left: 10px;
+        top: 87px;
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 10px;
+        line-height: 13px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    #main_logo{
+        z-index: -1;
+        width: 320px;
+        height: 143.07px;
+        left: 0;
+        top: 35px;
+        mix-blend-mode: lighten;
+        opacity: 0.7;
+    }
+
+    .main_bar{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+        position: absolute;
+        background: #AF2F2F;
+        border-radius: 20px;
+    }
+
+    #online{
+        width: 300px;
+        height: 209.26px;
+        left: 10px;
+        top: 493.74px;
+    }
+    h2{
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+    #online_text{
+        position: absolute;
+        width: 70px;
+        height: 24px;
+        left: 125px;
+        top: 459px;
+    }
+    #popularity{
+        width: 300px;
+        height: 208.98px;
+        left: 10px;
+        top: 757.02px;
+    }
+    #popularity_text{
+        position: absolute;
+        width: 90px;
+        height: 24px;
+        left: 115px;
+        top: 723px;
+    }
+    #events{
+        width: 300px;
+        height: 206.95px;
+        left: 10px;
+        top: 232.05px;
+    }
+    #events_text{
+        position: absolute;
+        width: 81px;
+        height: 24px;
+        left: 120px;
+        top: 198px;
+    }
+
+    h1{
+        position: absolute;
+        width: 194px;
+        height: 24px;
+        left: 63px;
+        top: 1022px;
+        font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+
+    /*Autorize*/
+}
